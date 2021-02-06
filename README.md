@@ -1,4 +1,12 @@
+# Next.js Tutorial netninja
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+## url
+
+[nextjs](https://nextjs.org/)
+[Next.js Tutorial Net Ninja](https://www.youtube.com/watch?v=A63UxsQsEbUlist=PL4cUxeGkcC9g9gP2onazU5-2M-AzA8eBw)
+[Git Hub iamshaunjp nextjs-tutorial ]()https://github.com/iamshaunjp/nextjs-tutorial/tree/lesson-1
 
 ## Getting Started
 
