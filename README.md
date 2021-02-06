@@ -6,7 +6,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 [nextjs](https://nextjs.org/)
 [Next.js Tutorial Net Ninja](https://www.youtube.com/watch?v=A63UxsQsEbUlist=PL4cUxeGkcC9g9gP2onazU5-2M-AzA8eBw)
-[Git Hub iamshaunjp nextjs-tutorial ]()https://github.com/iamshaunjp/nextjs-tutorial/tree/lesson-1
+[Git Hub iamshaunjp nextjs-tutorial](https://github.com/iamshaunjp/nextjs-tutorial/tree/lesson-1)
 
 ## Getting Started
 
@@ -62,6 +62,6 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
-```
+```bash
 
 ```
