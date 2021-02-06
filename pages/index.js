@@ -1,7 +1,8 @@
-import Head from "next/head";
-import Navbar from "../components/Navbar";
-import Footer from "../components/Footer";
-import styles from "../styles/Home.module.css";
+import Head from 'next/head'
+import Navbar from '../components/Navbar'
+import Footer from '../components/Footer'
+import styles from '../styles/Home.module.css'
+import Link from 'next/link'
 
 export default function Home() {
   return (
@@ -20,7 +21,8 @@ export default function Home() {
         reprehenderit omnis eveniet sit odit voluptates officiis dicta similique
         corrupti ex!
       </p>
+
       <Footer />
     </div>
-  );
+  )
 }

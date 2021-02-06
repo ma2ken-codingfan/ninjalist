@@ -3,7 +3,7 @@ const About = () => {
     <div>
       <h1>About Page</h1>
       <p>
-        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Maxime, eos
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Maxime, eostes
         mollitia recusandae dolores quidem sequi corporis commodi ad quae
         reprehenderit omnis eveniet sit odit voluptates officiis dicta similique
         corrupti ex!
@@ -15,8 +15,8 @@ const About = () => {
         corrupti ex!
       </p>
     </div>
-  );
-};
+  )
+}
 
-export default About;
+export default About
 //sfc
